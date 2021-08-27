@@ -54,7 +54,6 @@ class Importer
             }
 
             $this->moveUploadedFile($filePath);
-//            rename('image1.jpg', 'del/image1.jpg');
         }
     }
 
